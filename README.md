@@ -1,4 +1,4 @@
-# **TOP-DOWN APPROACH:** McDonald's Operational Database Design
+# McDonald's Operational Database Design
 
 This project involves the creation of a relational database structure for a hypothetical McDonald’s organization, utilizing a top-down approach. The database is designed to manage core operational data including orders, customers, employees, products, and store locations. The database structure is represented by an Entity-Relationship Diagram (ERD), which outlines the relationships between various entities essential for efficient management and data retrieval.
 
